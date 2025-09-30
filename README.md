@@ -1,4 +1,4 @@
-#mdevloadingscreen
+# mdevloadingscreen
 
 Sunucuya giriş yaparken beklemek artık sıkıcı olmayacak. mdev_loadingscreen, şık tasarımı ve arka planda çalan müziğiyle oyunculara daha oyuna girmeden keyifli bir deneyim yaşatıyor.
 
